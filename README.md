@@ -18,8 +18,12 @@ Welcome to the Bank System Project repository! This project aims to develop a co
 | ASP.NET Core    | AWS ECR   	    | Visual Studio      |
 | PostgreSQL      | AWS ECS       	| GitHub, Trello     |             
 
-
-
+Contributors to this project: 
+ - [ https://github.com/ishwors ]
+ - [ https://github.com/Yash-Yadav-0 ]
+ - [ https://github.com/Subriti ]
+ - [ https://github.com/shreejal27 ]
+ - [ https://github.com/prerana30 ]
 
 
 ## Getting Started:
@@ -76,5 +80,5 @@ docker pull ishwors/bankingsystem-repo:latest
 docker run -it -p 8080:8080 ishwors/bankingsystem-repo
 ```
 
-
+//-- Commit changes from contributors cannot be displayed due to the private nature of the main repository. --//
 
