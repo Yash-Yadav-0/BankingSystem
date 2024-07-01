@@ -34,7 +34,7 @@ Contributors to this project:
 
 ### Clone & RUN Source Code
 ```
-git clone git@github.com:ishwors/BankingSystem.git
+git clone https://github.com/Yash-Yadav-0/BankingSystem.git
 ```
 
 <details>
@@ -69,7 +69,7 @@ dotnet build
 dotnet run
 ```
 
-
+//
 OR
 ### RUN [**docker image**](https://hub.docker.com/repository/docker/ishwors/bankingsystem-repo/)
 
@@ -79,6 +79,6 @@ docker pull ishwors/bankingsystem-repo:latest
 ```
 docker run -it -p 8080:8080 ishwors/bankingsystem-repo
 ```
-
+//
 //-- Commit changes from contributors cannot be displayed due to the private nature of the main repository. --//
 
